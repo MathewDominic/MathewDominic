@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Mathew Dominic Puthoor</h1>
+<h3 align="center"> AFull stack developer with experience in building data pipelines and analytical tools </h3>
 <!--
 **MathewDominic/MathewDominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
