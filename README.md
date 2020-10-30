@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on Python, Django, ElasticSearch, Redis, AWS Lambda, Kinesis, Celery
 - 🌱 Currently learning Docker, Data Modelling
-- Interesting side projects
+- 💡 Interesting side projects
   - https://mf-utils.surge.sh/ - Tools to analyse Indian Mutual Funds
   - https://fplanalyser.co/ - Analyse your Fantasy Premier League Team
   - https://quiz.makeachali.com/ - Game to identify which Malayalam movie a given meme is part of
