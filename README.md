@@ -3,7 +3,13 @@
 
 - 🔭 Currently working on Python, Django, ElasticSearch, Redis, AWS Lambda, Kinesis, Celery
 - 🌱 Currently learning Docker, Data Modelling
+- Interesting side projects
+  - https://mf-utils.surge.sh/ - Tools to analyse Indian Mutual Funds
+  - http://fplanalyser.co/ - Analyse your Fantasy Premier League Team
+  - https://quiz.makeachali.com/ - Game to identify which Malayalam movie the meme is part of
+  
 - 📫 Reach me at: mathew.puthur@gmail.com
+
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="py" width="40" height="40"/>
