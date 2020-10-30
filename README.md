@@ -6,7 +6,7 @@
 - Interesting side projects
   - https://mf-utils.surge.sh/ - Tools to analyse Indian Mutual Funds
   - https://fplanalyser.co/ - Analyse your Fantasy Premier League Team
-  - https://quiz.makeachali.com/ - Game to identify which Malayalam movie the meme is part of
+  - https://quiz.makeachali.com/ - Game to identify which Malayalam movie a given meme is part of
   
 - 📫 Reach me at: mathew.puthur@gmail.com
 
