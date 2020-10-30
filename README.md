@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="py" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-<img src="https://worldvectorlogo.com/logo/elastic-elasticsearch alt="django" width="40" height="40"/>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
