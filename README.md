@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Mathew Dominic Puthoor</h1>
-<h3 align="center"> A full stack developer with experience in building data pipelines and analytical tools </h3>
+<h3 align="center"> A full stack developer with experience in building data pipelines and analytical tools with epertise in Python</h3>
 
 - 🔭 Currently working on Python, Django, ElasticSearch, Redis, AWS Lambda, Kinesis, Celery
 - 🌱 Currently learning Docker, Data Modelling
