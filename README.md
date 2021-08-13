@@ -1,4 +1,4 @@
-<h3 align="center"> A full stack developer with experience in building data pipelines and analytical tools with epertise in Python</h3>
+<h3 align="center"> A full stack developer with experience in building data pipelines & analytical tools with expertise in Python</h3>
 
 - 🔭 Currently working on Python, Django, ElasticSearch, Redis, AWS Lambda, Kinesis, Celery
 - 🌱 Currently learning Docker, Data Modelling
