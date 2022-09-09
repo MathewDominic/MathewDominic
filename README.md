@@ -1,5 +1,5 @@
-<h3 align="center"> A full stack developer with experience in building data pipelines & analytical tools with expertise in Python</h3>
-
+<p align="center"> A full stack developer with experience in building data pipelines & analytical tools with expertise in Python</p>
+<!--
 - 🔭 Currently working on Python, Django, ElasticSearch, Redis, AWS Lambda, Kinesis, Celery
 - 🌱 Currently learning Docker, Data Modelling
 - 💡 Interesting side projects
@@ -7,7 +7,7 @@
   - https://mf-utils.surge.sh/ - Tools to analyse Indian Mutual Funds
   
 - 📫 Reach me at: mathew.puthur@gmail.com
-
+-->
 
 <p align="center">
   
